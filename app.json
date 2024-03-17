@@ -25,6 +25,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ff4352f-b875-4eaa-a8b5-9599db656140"
+      }
+    },
+    "owner": "ultra2g",
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "coconut"
   }
 }
