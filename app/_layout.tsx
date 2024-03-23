@@ -15,7 +15,7 @@ const RootLayout = () => {
         name="about"
         options={{
           presentation: 'modal',
-          title: '关于 coconut',
+          title: '关于',
         }}
       />
     </Stack>
